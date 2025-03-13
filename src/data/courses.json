@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "title": "Introduction to English",
+      "description": "Learn the basics.",
+      "provider": "Binsi",
+      "courseImg": "/courseImg/learn_english.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Environmental Sustainability",
+      "description": "Basics of environmental best practices",
+      "provider": "Binsi",
+      "courseImg": "/courseImg/env_sus.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Emotional Intelligence",
+      "description": "How to understand emotions better",
+      "provider": "Alt School",
+      "courseImg": "/courseImg/emo_int.png"
+    }
+  ]
+  

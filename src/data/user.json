@@ -1,0 +1,10 @@
+{
+  "id": 1,
+  "name": "Jane Doe",
+  "enrolledCourses": [],
+  "completedCourses": [
+    1,
+    2,
+    3
+  ]
+}
